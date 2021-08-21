@@ -1,0 +1,16 @@
+E:\Vinicius\code\C#\SimpFracao\bin\Debug\net5.0\SimpFracao.exe
+E:\Vinicius\code\C#\SimpFracao\bin\Debug\net5.0\SimpFracao.deps.json
+E:\Vinicius\code\C#\SimpFracao\bin\Debug\net5.0\SimpFracao.runtimeconfig.json
+E:\Vinicius\code\C#\SimpFracao\bin\Debug\net5.0\SimpFracao.runtimeconfig.dev.json
+E:\Vinicius\code\C#\SimpFracao\bin\Debug\net5.0\SimpFracao.dll
+E:\Vinicius\code\C#\SimpFracao\bin\Debug\net5.0\ref\SimpFracao.dll
+E:\Vinicius\code\C#\SimpFracao\bin\Debug\net5.0\SimpFracao.pdb
+E:\Vinicius\code\C#\SimpFracao\obj\Debug\net5.0\SimpFracao.csproj.AssemblyReference.cache
+E:\Vinicius\code\C#\SimpFracao\obj\Debug\net5.0\SimpFracao.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vinicius\code\C#\SimpFracao\obj\Debug\net5.0\SimpFracao.AssemblyInfoInputs.cache
+E:\Vinicius\code\C#\SimpFracao\obj\Debug\net5.0\SimpFracao.AssemblyInfo.cs
+E:\Vinicius\code\C#\SimpFracao\obj\Debug\net5.0\SimpFracao.csproj.CoreCompileInputs.cache
+E:\Vinicius\code\C#\SimpFracao\obj\Debug\net5.0\SimpFracao.dll
+E:\Vinicius\code\C#\SimpFracao\obj\Debug\net5.0\ref\SimpFracao.dll
+E:\Vinicius\code\C#\SimpFracao\obj\Debug\net5.0\SimpFracao.pdb
+E:\Vinicius\code\C#\SimpFracao\obj\Debug\net5.0\SimpFracao.genruntimeconfig.cache
