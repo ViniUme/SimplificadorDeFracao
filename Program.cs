@@ -7,7 +7,6 @@ namespace Dec2Bin
     {
         static void Main(string[] args)
         {
-            //Feito por Vinicius Henrique dos Santos
             Console.WriteLine("===================================");
             Console.WriteLine("======Simplificador de Fração======");
             Console.WriteLine("===================================");
